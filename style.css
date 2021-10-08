@@ -1,0 +1,17 @@
+body{
+	background-image: url("car track img backround.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+	border-width:10px;
+	background-image: url("racing track.jpg");
+	 
+	border-style:ridge;
+}
+
+h1,h4
+{
+	color: white !important;
+}
